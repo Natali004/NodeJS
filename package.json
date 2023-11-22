@@ -12,7 +12,9 @@
     "eslint": "^8.54.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.29.0",
-    "package-name": "^0.1.0"
+    "eslint-plugin-react": "^7.33.2",
+    "package-name": "^0.1.0",
+    "prettier": "3.1.0"
   },
   "dependencies": {
     "acorn": "^8.11.2",
